@@ -1,4 +1,4 @@
-# Monster-Maze
+# Monster-Maze 2D
 College project from introductory to computational systems at USP - São Carlos
 
 
