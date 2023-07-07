@@ -1,5 +1,5 @@
 # Monster-Maze 2D
-College project from introductory to computational systems at USP - São Carlos
+College project from Introductory to Computational Systems at USP - São Carlos
 
 ![sem título](https://github.com/murillodomingos/Monster-Maze-2D/assets/66131893/863e13c1-f8df-4904-8f3d-15632baa74ed)
 
